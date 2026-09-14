@@ -1,0 +1,23 @@
+{
+  "image": "case_20260911T151124438179Z.jpg",
+  "reason": "low_confidence",
+  "prediction": {
+    "track_id": 2,
+    "class_id": 0,
+    "class_name": "car",
+    "confidence": 0.4135141670703888,
+    "bbox": [
+      160,
+      316,
+      187,
+      333
+    ],
+    "center": [
+      173,
+      324
+    ],
+    "status": "MOVENDO"
+  },
+  "created_at": "2026-09-11T15:11:24.444450+00:00",
+  "review": null
+}
